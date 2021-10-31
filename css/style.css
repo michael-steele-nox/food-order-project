@@ -818,6 +818,37 @@ section {
   object-fit: cover;
 }
 
+.blogs .box-container .box .content {
+  padding: 1.5rem 2rem;
+  background: #f7f7f7;
+}
+
+.blogs .box-container .box .content .tags {
+  padding-bottom: 1rem;
+}
+
+.blogs .box-container .box .content .tags a {
+  font-size: 1.5rem;
+  color: #666;
+}
+
+.blogs .box-container .box .content .tags a i {
+  color: #27ae60;
+  padding-right: 0.5rem;
+}
+
+.blogs .box-container .box .content h3 {
+  font-size: 2rem;
+  color: #130f40;
+}
+
+.blogs .box-container .box .content p {
+  font-size: 1.4rem;
+  color: #666;
+  padding: 1rem 0;
+  line-height: 2;
+}
+
 @media (max-width: 991px) {
   html {
     font-size: 55%;
